@@ -1,0 +1,5 @@
+before i need to startup my matplotanalysis, i need to run:
+sudo apt-get install python3-matplotlib
+
+Optional:
+pip3 install matplotlib
