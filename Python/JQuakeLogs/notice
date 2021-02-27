@@ -1,1 +1,5 @@
+Before I need to use my csv analysis, I need to do the following:
+$ sudo apt install python3-pip
 
+For install pandas:
+$ pip3 install pandas
