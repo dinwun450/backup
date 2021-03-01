@@ -1,0 +1,8 @@
+Before I can download GO, I need to run:
+sudo su
+
+This will result of going to root and then run after storing the tar in the Tar folder:
+tar -C /usr/local -xzf go1.16.linux-amd64.tar.gz
+
+Then run:
+export PATH=$PATH:/usr/local/go/bin
